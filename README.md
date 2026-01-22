@@ -74,8 +74,8 @@ I am a computer engineering student, currently halfway through my degree. I am b
       </a>
     </td>
     <td align="center" width="50%" style="padding:15px;">
-      <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=f7768e" width="100%" style="border-radius: 8px;" />
+      <a href="https://github.com/MasterPieceDR/Hospital-Baco-Ortiz-GO-">
+        <img src="https://github.com/MasterPieceDR/Hospital-Baco-Ortiz-GO-&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=f7768e" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
   </tr>
