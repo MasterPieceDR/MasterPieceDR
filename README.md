@@ -95,3 +95,39 @@ I am a computer engineering student, currently halfway through my degree. I am b
 </table>
 
 <hr style="border-color:#30363d; margin:45px 0;" />
+
+<h3 align="center">GitHub Activity</h3>
+
+<table align="center" width="100%" border="0" cellspacing="20">
+  <tr>
+
+  <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=MasterPieceDR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"
+        height="170"
+        alt="Diego Ruiz GitHub Stats"
+      />
+    </td>
+
+   <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterPieceDR&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+        height="170"
+        alt="Most Used Languages"
+      />
+    </td>
+
+  </tr>
+</table>
+<br>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/MasterPieceDR/MasterPieceDR/output/snake.svg"
+    alt="Contribution Snake"
+    width="100%"
+    style="max-width: 850px; border-radius: 8px;"
+  />
+</div>
+
+
