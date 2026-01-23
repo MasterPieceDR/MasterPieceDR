@@ -121,13 +121,5 @@ I am a computer engineering student, currently halfway through my degree. I am b
 </table>
 <br>
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MasterPieceDR/MasterPieceDR/output/snake.svg"
-    alt="Contribution Snake"
-    width="100%"
-    style="max-width: 850px; border-radius: 8px;"
-  />
-</div>
 
 
